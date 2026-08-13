@@ -1,0 +1,11 @@
+node_modules/
+.next/
+data/
+*.db
+*.db-*
+.env*.local
+next-env.d.ts
+.DS_Store
+
+# TypeScript artefaktı
+tsconfig.tsbuildinfo
